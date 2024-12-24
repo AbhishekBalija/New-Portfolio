@@ -1,0 +1,29 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "FieldContent",
+				"value": "lead",
+				"type": "Text"
+			},
+			"phone_number": {
+				"__TYPE__": "FieldContent",
+				"value": "title",
+				"type": "Text"
+			},
+			"gmail": {
+				"__TYPE__": "FieldContent",
+				"value": "chamber",
+				"type": "Text"
+			},
+			"insta_id": {
+				"__TYPE__": "FieldContent",
+				"value": "four",
+				"type": "Text"
+			}
+		},
+		"items": []
+	}
+]
