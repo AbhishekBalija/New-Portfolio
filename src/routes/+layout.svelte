@@ -6,8 +6,10 @@
 	import { repositoryName } from '$lib/prismicio';
 	import Footer from '$lib/components/Footer.svelte';
 	import Header from '$lib/components/Header.svelte';
-
-	export let data;
+	import { injectAnalytics } from '@vercel/analytics/sveltekit'
+	
+		export let data;
+		injectAnalytics();
 </script>
 
 <svelte:head>
